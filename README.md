@@ -10,7 +10,7 @@ Your mission is to become a "network eavesdropper." You will use Wireshark to ca
 
 **Your Target:**
 We will be using a website that is *intentionally* insecure for training purposes:
-*   **`*   **`=(http://neverssl.com/)`** (Damn Vulnerable Web Application)`** (Damn Vulnerable Web Application)
+* (http://neverssl.com/) 
 
 ---
 
